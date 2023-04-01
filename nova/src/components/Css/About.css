@@ -1,0 +1,22 @@
+.about {
+    background-color: #f0f4f8;
+    padding: 4rem 0;
+}
+
+.about-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.about h3 {
+    font-size: 2rem;
+    color: #1a2a4f;
+    margin-bottom: 1rem;
+}
+
+.about p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.6;
+}
