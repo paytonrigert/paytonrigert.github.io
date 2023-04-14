@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.150defc0.css",
-    "main.js": "/static/js/main.67ee36e3.js",
+    "main.js": "/static/js/main.fff55d7a.js",
     "static/js/787.bad531f5.chunk.js": "/static/js/787.bad531f5.chunk.js",
     "static/media/publicHealth.jpeg": "/static/media/publicHealth.63f856c31b9fc383445c.jpeg",
-    "static/media/payton.jpg": "/static/media/payton.4d638cc1ad7b631a3152.jpg",
+    "static/media/background.jpg": "/static/media/background.88562a5d29a5402dcbfc.jpg",
     "static/media/CarterSquare.jpg": "/static/media/CarterSquare.63483803ec67597a99f6.jpg",
+    "static/media/OIP.jpg": "/static/media/OIP.e42c62040d3a159d91a2.jpg",
+    "static/media/linkedin.svg": "/static/media/linkedin.aabef34d94a912b636c7ff90706497fb.svg",
     "index.html": "/index.html",
     "main.150defc0.css.map": "/static/css/main.150defc0.css.map",
-    "main.67ee36e3.js.map": "/static/js/main.67ee36e3.js.map",
+    "main.fff55d7a.js.map": "/static/js/main.fff55d7a.js.map",
     "787.bad531f5.chunk.js.map": "/static/js/787.bad531f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.150defc0.css",
-    "static/js/main.67ee36e3.js"
+    "static/js/main.fff55d7a.js"
   ]
 }
