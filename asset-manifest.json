@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.150defc0.css",
-    "main.js": "/static/js/main.adedec99.js",
+    "main.js": "/static/js/main.84d2c81e.js",
     "static/js/787.bad531f5.chunk.js": "/static/js/787.bad531f5.chunk.js",
     "static/media/publicHealth.jpeg": "/static/media/publicHealth.63f856c31b9fc383445c.jpeg",
     "static/media/background.jpg": "/static/media/background.88562a5d29a5402dcbfc.jpg",
@@ -10,11 +10,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.aabef34d94a912b636c7ff90706497fb.svg",
     "index.html": "/index.html",
     "main.150defc0.css.map": "/static/css/main.150defc0.css.map",
-    "main.adedec99.js.map": "/static/js/main.adedec99.js.map",
+    "main.84d2c81e.js.map": "/static/js/main.84d2c81e.js.map",
     "787.bad531f5.chunk.js.map": "/static/js/787.bad531f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.150defc0.css",
-    "static/js/main.adedec99.js"
+    "static/js/main.84d2c81e.js"
   ]
 }
