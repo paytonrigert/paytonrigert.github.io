@@ -15,9 +15,7 @@ const About = () => {
         <section className="about" id="about">
             <Container>
                 <h3>Welcome to Nova Public Health Consulting!</h3>
-                <p>
-                    Welcome to Nova Public Health Consulting!
-                </p>
+
                 <p>
                     Started in 2021, Nova PHC LLC was founded by Payton Rigert. Our mission is to provide top-quality public health consulting services to help organizations and government entities to achieve their health-related goals and objectives. 
                 </p>
