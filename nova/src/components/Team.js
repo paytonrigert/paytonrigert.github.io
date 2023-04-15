@@ -1,7 +1,8 @@
 import React from "react";
 import './Css/Team.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import PaytonImage from '../images/payton.jpg';
+import waterImage from '../images/water.jpg';
+import PaytonImage from '../images/payton.jpg'; 
 import { useEffect } from 'react';
 
 
@@ -11,13 +12,25 @@ const Team = () => {
     }, []);
     return (
         <>
+            <header
+                className="header text-white text-center py-5"
+                style={{ backgroundImage: `url(${waterImage})` }}
+            >
+                <div className="container">
+                    <div className="header-content">
+                        <h1>Our Team</h1>
 
+
+                    </div>
+                </div>
+            </header>
             <section className="team" id="team">
-            <h1 className="text-center">Our Team</h1>
+           
            
 
             <Container>
                     <Row>
+                    <p></p>
                 <h2>Payton Rigert</h2>
                     <Col md={6} className="bullet-points">
                     
