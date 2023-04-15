@@ -8,11 +8,38 @@
 .navbar-logo {
     height: auto;
     max-width: 10%;
+    margin-right: 10px;
 }
 
-@media (max-width: 768px) {
-    .navbar-logo {
-        height: 50px;
-        width: 50px;
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.navbar-toggler {
+    margin-right: auto;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.navbar-collapse {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #1a2a4f;
+}
+
+@media (min-width: 992px) {
+    .navbar-collapse {
+        position: static;
+        background-color: transparent;
     }
 }
+
