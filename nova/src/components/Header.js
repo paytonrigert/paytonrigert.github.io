@@ -1,6 +1,6 @@
 import React from 'react';
 import './Css/Header.css';
-import PaytonImage from '../images/payton.jpg';
+import PaytonImage from '../images/background.jpg';
 
 
 const Header = () => {

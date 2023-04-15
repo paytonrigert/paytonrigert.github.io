@@ -4,3 +4,15 @@
     top: 0;
     z-index: 1000;
 }
+
+.navbar-logo {
+    height: auto;
+    max-width: 10%;
+}
+
+@media (max-width: 768px) {
+    .navbar-logo {
+        height: 50px;
+        width: 50px;
+    }
+}

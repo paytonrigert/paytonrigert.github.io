@@ -9,22 +9,25 @@ import Achievements from './components/Achievements';
 import Services from './components/Services';
 import Testimonial from './components/Testimonial';
 import Clients from './components/Clients';
-const App = () => {
+import ContactForm from './components/ContactForm';
+import { useEffect } from 'react';
+const Home = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
     return (
-        <div className="App">
-            <Navbar />    
+        <div className="Home">
+          
             <Header />
             <About />
-            <Achievements />
             <Services />
+            
+            
             <Clients />
-            <Testimonial />
-            <Skills />
-            <Experience />
-            <Education />
-            <Contact />
+           
+
         </div>
     );
 };
 
-export default App;
+export default Home;
