@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.150defc0.css",
-    "main.js": "/static/js/main.84d2c81e.js",
+    "main.css": "/static/css/main.fcd88790.css",
+    "main.js": "/static/js/main.33df5ee1.js",
     "static/js/787.bad531f5.chunk.js": "/static/js/787.bad531f5.chunk.js",
     "static/media/publicHealth.jpeg": "/static/media/publicHealth.63f856c31b9fc383445c.jpeg",
+    "static/media/payton.jpg": "/static/media/payton.205b9bdc01fa9b899ee8.jpg",
     "static/media/background.jpg": "/static/media/background.88562a5d29a5402dcbfc.jpg",
     "static/media/CarterSquare.jpg": "/static/media/CarterSquare.63483803ec67597a99f6.jpg",
     "static/media/OIP.jpg": "/static/media/OIP.e42c62040d3a159d91a2.jpg",
     "static/media/linkedin.svg": "/static/media/linkedin.aabef34d94a912b636c7ff90706497fb.svg",
     "index.html": "/index.html",
-    "main.150defc0.css.map": "/static/css/main.150defc0.css.map",
-    "main.84d2c81e.js.map": "/static/js/main.84d2c81e.js.map",
+    "main.fcd88790.css.map": "/static/css/main.fcd88790.css.map",
+    "main.33df5ee1.js.map": "/static/js/main.33df5ee1.js.map",
     "787.bad531f5.chunk.js.map": "/static/js/787.bad531f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.150defc0.css",
-    "static/js/main.84d2c81e.js"
+    "static/css/main.fcd88790.css",
+    "static/js/main.33df5ee1.js"
   ]
 }
